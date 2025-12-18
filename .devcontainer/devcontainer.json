@@ -1,0 +1,6 @@
+{
+  "name": "Lab09 Python",
+  "image": "ghcr.io/luca-heltai/sspa-lab09:python",
+  "workspaceFolder": "/app",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/app,type=bind"
+}
